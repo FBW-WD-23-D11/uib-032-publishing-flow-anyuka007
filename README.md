@@ -1,5 +1,5 @@
 # Publishing Workflow
-[![Status overview badge](../../blob/badges/.github/badges/main/badge.svg)](#-results)
+[![Status overview badge](../../blob/badges/.github/badges/gh-pages/badge.svg)](#-results)
 
 
 Let's make our work public to share it with the world. Pay attention to **legal regulations** (no hate, no bullying, no misinformation, etc.).
@@ -88,13 +88,13 @@ There is a known [issue](https://github.com/tschaub/gh-pages/issues/354) with gh
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status0.svg) | `index.html` file exists and contains `h1` element |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status0.svg) | `index.html` file exists and contains `h1` element |
 
 ### Publishing
 
 |                 Status                  | Check                                                                                    |
 | :-------------------------------------: | :--------------------------------------------------------------------------------------- |
-| ![Status](../../blob/badges/.github/badges/main/status1.svg) | This repository is published on GitHub pages |
+| ![Status](../../blob/badges/.github/badges/gh-pages/status1.svg) | This repository is published on GitHub pages |
 
 
 
